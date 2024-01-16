@@ -12,7 +12,7 @@ To predict the volatility of intraday stock market considering various parameter
 
 Import
 """
-
+#test push on git
 # Commented out IPython magic to ensure Python compatibility.
 import numpy as np
 import pandas as pd
